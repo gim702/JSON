@@ -1,0 +1,8 @@
+{
+  "firstName" : "John",
+  "lastName" : "Johnson",
+  "displayHandle" : "J.John",
+  "posts" : [ "Maine town elects moose as mayor.", "Professional bull rider sets new world record with one minute and fourteen seconds.", "Minnesota's twin cities elect twin sisters as mayors of Minneapolis and St. Paul.", "Parliament of Canada votes maple syrup as the national beverage." ],
+  "age" : "35",
+  "active" : true
+}
