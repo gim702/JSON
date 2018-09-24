@@ -1,0 +1,53 @@
+{
+	"name": [
+		"Sarah",
+		"Anna",
+		"Katie",
+		"Brian",
+		"Joe",
+		"Mark"
+	],
+	"occupation": [
+		"accountant",
+		"registered nurse",
+		"pharmacy technician",
+		"web designer",
+		"occupational therapist",
+		"personal trainer"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this job offer. After #action# to answer the phone, on the other side there was #adjective# news about the offer."
+	],
+	"always": [
+		"seldom",
+		"never",
+		"certainly",
+		"consistently",
+		"regularly",
+		"sometimes"
+	],
+	"expecting": [
+		"awaiting",
+		"hopeful",
+		"anticipating",
+		"imagining",
+		"envisioning",
+		"predicting"
+	],
+	"action": [
+		"running",
+		"hopping",
+		"crawling",
+		"skipping",
+		"flying",
+		"jumping"
+	],
+	"adjective": [
+		"horrible",
+		"terrific",
+		"fantastic",
+		"wonderful",
+		"dreadful",
+		"sickening"
+	]
+}
